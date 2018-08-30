@@ -5,17 +5,14 @@ image: sudoku.svg.png
 title: Hexadecimal Sudoku
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-10-27
 labels:
   - Java
 summary: Recursively solves a Hexadecimal Sudoku problem.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Sudokupic.jpg">
 </div>
 
 This was a project for my ICS 211 class. It was one of the more challenging projects that I remember, since a lot of factors needed to be taken into consideration when writing the code for this project. In this assignment, a recursive method is implemented to find a solution to a given Sudoku problem.
