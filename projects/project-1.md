@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: sudoku.svg.png
+image: sudoku.png
 title: Hexadecimal Sudoku
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -35,18 +35,41 @@ A recursive strategy for finding a solution to a Sudoku problem is as follows:
 
 Every time the code recursively attempts to find a solution, it will fill cells in the Sudoku grid. If the attempt is not successful, returning, the code must restore the Sudoku grid to the values had before the call.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is a piece of the code from my project that initially checks if the sudoku is solved, and if not, searches for possible values for the next empty space:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+```
+public static boolean solveSudoku(int[][] sudoku, int row, int column) {
+    // If sudoku is full and solved
+    if (column == 16 || row == 16) {
+      return true;
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+
+    // If there's already a value in the cell, move on
+    else if (sudoku[row][column] != -1) {
+      if (column == 15) {
+        return solveSudoku(sudoku, row + 1, 0);
+      } else {
+        return solveSudoku(sudoku, row, column + 1);
+      }
+    } else {
+      ArrayList<Integer> possibleValues = legalValues(sudoku, row, column);
+      if (possibleValues == null) {
+        return false;
+      } else {
+        for (int i = 0; i < possibleValues.size(); i++) {
+          sudoku[row][column] = possibleValues.get(i);
+          boolean retVal = solveSudoku(sudoku, row, column);
+          if (retVal == true) {
+            return true;
+          } else {
+            sudoku[row][column] = -1;
+          }
+        }
+        return false;
+      }
+    }
+
+  }
 ```
 
 
