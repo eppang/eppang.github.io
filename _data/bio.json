@@ -54,11 +54,11 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Windows",
+        "MacOS",
+        "Eclipse",
         "Unix",
-        "GitHub",
-        "Eclipse"
+        "Github"
       ]
     }
   ],
