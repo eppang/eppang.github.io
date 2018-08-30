@@ -8,6 +8,7 @@ permalink: projects/hexadecimalsudoku
 date: 2017-10-27
 labels:
   - Java
+  - Eclipse
 summary: Recursively solves a Hexadecimal Sudoku problem.
 ---
 
