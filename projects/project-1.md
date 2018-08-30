@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: sudoku.png
+image: images/sudoku.png
 title: Hexadecimal Sudoku
-permalink: projects/micromouse
+permalink: projects/hexadecimalsudoku
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-27
 labels:
