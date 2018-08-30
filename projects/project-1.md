@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: sudoku.svg.png
 title: Hexadecimal Sudoku
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
