@@ -20,5 +20,4 @@ For this project, I worked in a team of 3 people, which included my coworkers Pr
 ## What I Learned
 This project taught me the essentials of collaboration and teamwork; you can't be afraid to receive criticism or to voice your own ideas when it comes to creating something new. Everyone has something to contribute, and it all works out when everyone puts forth an effort. Not only did I have to collaborate with my coworkers, I had to collaborate with the different staff within our department, who would also give feedback on the infographic. It gave me experience working with different kinds of people and allowed me to practice giving and receiving ideas from other people, and then build off of those ideas.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
