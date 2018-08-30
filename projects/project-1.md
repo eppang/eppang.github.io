@@ -37,7 +37,7 @@ A recursive strategy for finding a solution to a Sudoku problem is as follows:
 
 Every time the code recursively attempts to find a solution, it will fill cells in the Sudoku grid. If the attempt is not successful, returning, the code must restore the Sudoku grid to the values had before the call.
 
-## Role and Responsibility
+## Role and Responsibilities
 
 This project was a homework assignment for 211; I did not work in a group for this, and so everything here is written and done by me, with some help from the teacher and the TA. I was responsible for writing the code to complete the hexadecimal problem, as well as writing the code to test it.
 
