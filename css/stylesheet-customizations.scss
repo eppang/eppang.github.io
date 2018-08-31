@@ -5,9 +5,14 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
+html {
+  height: unset;
+}
+
 // Customize the background color
 body {
   // background-color: #f2f2f2;
+  background: linear-gradient(235deg, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);
 }
 
 // Customize the menubar color
