@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/programming.jpg">
+<img class="ui medium rounded image" src="../images/programming.jpg">
 
 In my senior year of high school, I still didn't know what I wanted to study once I graduated. I didn't know what college I wanted to go to or what major I should start with. I was conflicted because I liked art and drawing, yet I knew that realistically, these interests most likely wouldn't be enough to support me as an adult. My dad in particular was the type to stress getting a good job in the STEM field to get a good, secure job and be successful.  At the last minute, I chose to go into Civil Engineering since it was a popular major that almost guaranteed good pay once graduating college. I wasn't particularly skilled in math or physics, but I chose to do it anyway, reassured by the large amount of my friends who also had chosen to pursue engineering. My parents were satisfied and proudly announced to everyone that I was going to be an engineer. Adults nodded approvingly when I told them what my intended major was. I ended up going to UH since my dad said that "there was no point in going to a mainland school and spending all that money; UH has a decent engineering program already". 
 
