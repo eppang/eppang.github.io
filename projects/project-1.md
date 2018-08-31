@@ -47,7 +47,7 @@ This project was a homework assignment for 211; I did not work in a group for th
 From this experience, I learned a lot about learning from mistakes and how important it is to really go back and trace through the code to find any errors. Tracing code was really helpful and essential to completing this project, and it's just a good habit overall, even when you think your code don't have any errors. This project was a good example of how many mistakes programmers will encounter in the coding process, and really taught the class that you have to think of all the possible outcomes in order to produce successful code that can handle all those outcomes.
 
 ### Sample Code
-
+I will refrain from uploading my code to GitHub as a courtesy to my professors and to discourage cheating by those who have yet to complete ICS 211.
 Here is a piece of the code from my project that initially checks if the sudoku is solved, and if not, searches for possible values for the next empty space:
 
 ```
