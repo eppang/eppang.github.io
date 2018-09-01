@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: From Java to Javascript
+title: Why Javascript is SO Easy! ....Or not?
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
