@@ -15,11 +15,11 @@ If you have not yet read [How to ask questions the smart way](http://www.catb.or
 
 ## What's a Bad Question?
 I did some searching of my own, and was pleasantly surprised that I had to do quite a bit of hunting before I found a legit bad question on StackOverflow. Here's what I found, as a result of searching "stupid question" in the search bar:
-<img class="ui medium image" src="../images/stupidquestion.png">
+<img class="ui large image" src="../images/stupidquestion.png">
 
 Let's first note the unhelpful title: "Stupid C++ question about if-else". One of the points Raymond makes is that "grovelling is not a substitute for doing your homework". Take note:
 
-<img class="ui medium image" src="../images/dontgrovel.PNG">
+<img class="ui large image" src="../images/dontgrovel.PNG">
 
 An attempt to receive pity will most likely not be successful in attracting helpful answers. It just makes you, the asker of the question, appear whiny and immature. This person in particular definititely made my eyes roll just from reading the title.
 
@@ -33,11 +33,11 @@ The bottom line is, people can tell when you put in minimal effort to solve the 
 ## What's a Good Question?
 It was way faster to find a good question, which greatly restores my faith in humanity.
 
-<img class="ui medium image" src="../images/goodquestion1.PNG">
+<img class="ui large image" src="../images/goodquestion1.PNG">
 
 First of all, the title is descriptive and gives good insight as to what the problem is. Unlike the "bad" example, it does not beg for anyone's pity. They follow up by sharing the error that they encountered and the different strategies they have attempted. They mention that they have referenced the a documentation and have made an attempt to solve the problem on their own. This is followed along with a sample of their own coding attempt. The rest of the post is as follows:
 
-<img class="ui medium image" src="../images/goodquestion2.PNG">
+<img class="ui large image" src="../images/goodquestion2.PNG">
 
 This user's question is made even better as they indicate that they have made the attempt to search through StackOverflow for the solution before asking the question. It's always important to check the FAQs and forums to see if it's a commonly asked question or if someone has already asked the question before. Doing this will not only save your time, but everyone else's time; nobody wants to go through the effort to answer the same question twice. Not to mention it also saves you the embarassment of looking ignorant. 
 
@@ -47,7 +47,7 @@ However, the best part of the question is the last sentence:
 
 They ask for POINTERS on their question; they don't expect to simply be handed the answer. We can see from the community's answers that others are more receptive to help this person because they are actively trying to educate themselves rather than sponging up information.
 
-<img class="ui medium image" src="../images/goodquestionanswer.PNG">
+<img class="ui large image" src="../images/goodquestionanswer.PNG">
 
 The user actively follows up with responses and respectfully works with the community to solve the solution. When you respect the community, the community respects you back. Overall, this is a good example that really shows that you get what you give. Raymond makes it clear that the world of hackers and technology experts is a ruthless place. Respect is something to be earned, not demanded.
 
