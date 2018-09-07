@@ -15,7 +15,7 @@ If you have not yet read [How to ask questions the smart way](http://www.catb.or
 
 ## What's a Bad Question?
 I did some searching of my own, and was pleasantly surprised that I had to do quite a bit of hunting before I found a legit bad question on StackOverflow. Here's what I found, as a result of searching "stupid question" in the search bar:
-<img class="ui medium image" src="../images/badquestion.png">
+<img class="ui medium image" src="../images/stupidquestion.png">
 
 Let's first note the unhelpful title: "Stupid C++ question about if-else". One of the points Raymond makes is that "grovelling is not a substitute for doing your homework". Take note:
 
