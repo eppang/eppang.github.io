@@ -19,7 +19,7 @@ I did some searching of my own, and was pleasantly surprised that I had to do qu
 
 Let's first note the unhelpful title: "Stupid C++ question about if-else". One of the points Raymond makes is that "grovelling is not a substitute for doing your homework". Take note:
 
-<img class="ui massive image" src="../images/dontgrovel.PNG">
+[<img class="ui massive image" src="../images/dontgrovel.PNG">](../images/dontgrovel.PNG)
 
 An attempt to receive pity will most likely not be successful in attracting helpful answers. It just makes you, the asker of the question, appear whiny and immature. This person in particular definititely made my eyes roll just from reading the title.
 
