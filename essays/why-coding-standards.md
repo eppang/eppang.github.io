@@ -13,7 +13,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui medium rounded image" src="../images/codestandardcomic.jpeg">
+<img class="ui massive rounded image" src="../images/codestandardcomic.jpeg">
 
 #Introduction
 Whether you're in school or beginning at your first job out there in the *Real World*, you need to be ready because at some time - at some point - *someone* is going to read your code. And you'd better hope when that someone reads your code (because that someone will most likely be either an instructor grading your work or a colleague) that they aren't scratching their heads regretting they even put themselves up to the task. This is where *coding standards* come in!
@@ -21,7 +21,7 @@ Whether you're in school or beginning at your first job out there in the *Real W
 #The Pros to Using Coding Standards
 Good coding standards ensure readability and comprehension of your own code. Having a consistent coding style can help you to better understand your own code and your reasoning behind it. Imagine having inconsistent code where in some places there's spaces between a function name and the parameters, and in some places there is none. Although it's not one of the more important issues, coding standards help with the general aesthetics of your code as well. It feels miles better to read organized, nicely formatted code than sloppy, inconsistent code. Imagine having no standard on how starting curly braces are set, and dealing with a code that has them sometimes on the same line, and sometimes on the new line after it. It's the tiny inconsistencies like that not only within coding but life itself that are mildly irritating enough to make one say "Ok, SOMEONE fix that!" Think about this; you just arrived home after a long day at work. You're starving. You order a delicious pepperoni pizza, since that's your favorite. In 15 minutes, the pizza arrives at your door and you eagerly open it only to realize to your dismay, that the pizza has been sliced in all sorts of differently sized pieces!
 
-<img class="ui medium rounded image" src="../images/pizzaslices.jpeg">
+<img class="ui massive rounded image" src="../images/pizzaslices.jpeg">
 
 **DON'T BE THAT PERSON. DON'T CUT PIZZAS LIKE THAT. AND DON'T WRITE TERRIBLY FORMATTED CODE.**
 
