@@ -21,5 +21,10 @@ One of Semantic UI's most notable features (in my opinion) is how user-friendly 
 It sounds exactly like how we might use adjectives to describe something in English to describe what kind of container it is, does it not? This makes memorizing different commands easy. It's a very convenient high-level programming language; even though there's a lot of things to learn, they're almost instantly comprehendable because of how easy the language is to understand.
 
 ## Freedom of Customization
-Semantic UI comes with over 20 different themes along with a variety of JavaScript, CSS, and fonts. It makes it much faster and simpler to use Semantic UI to make a website with a particular popular font you like with a simple command in the css file such as `font-family: Monospace;` rather than providing a link to the font and importing it.
+Semantic UI comes with over 20 different themes along with a variety of JavaScript, CSS, and fonts. It makes it much faster and simpler to use Semantic UI to make a website with a particular popular font you like with a simple command in the css file such as `font-family: Monospace;` rather than providing a link to the font and importing it. In addition, the general format and aesthetic of Semantic UI is very clean and organized, which makes it easy to create something that looks presentable in a short amount of time.
+
+One downside to this that I have discovered while trying to replicate a website for a project is that you need to use `!important` quite a bit to override particular things Semantic UI does, which could probably end up being quite tedious in the long run, and can become tiring if you are trying to go for something very particular.
+
+## Conclusion
+The general organization of the language as well as how to make classes, ids, etc. make it a very beginner-friendly language, which is something great for people like me who have zero programming experience prior to college. I've talked to other friends who have experienced Semantic UI as well, but due to their extensive experience in using different frameworks, disliked Semantic UI and felt restricted by it. This all comes to show that different frameworks are beneficial to different people and programmers who have different levels of experience.
 
