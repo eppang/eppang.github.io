@@ -8,7 +8,8 @@ labels:
   - Learning
   - Semantic UI
 ---
-<img src="semanticui.png">
+<img class="ui massive image" src="../images/semanticui.png">
+
 ## Introduction
 Semantic UI is the first framework I've had experience using, so as a disclaimer, a lot of what I may be saying may not have a strong foundation of knowledge or understanding behind it. I'm simply speaking from my experience and from what I've researched. The best way to learn and gain opinions on things is to actually try them for yourself, so I highly recommend anyone who reads this to try Semantic UI for yourself; don't be discouraged by any downsides you may hear from it. I don't consider myself a very skilled programmer, but Semantic UI is something that I felt comfortable using in only a few short weeks.
 
