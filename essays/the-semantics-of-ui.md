@@ -8,4 +8,15 @@ labels:
   - Learning
   - Semantic UI
 ---
-<h1>Introduction</h1>
+
+## Introduction
+Semantic UI is the first framework I've had experience using, so as a disclaimer, a lot of what I may be saying may not have a strong foundation of knowledge or understanding behind it. I'm simply speaking from my experience and from what I've researched. The best way to learn and gain opinions on things is to actually try them for yourself, so I highly recommend anyone who reads this to try Semantic UI for yourself; don't be discouraged by any downsides you may hear from it. I don't consider myself a very skilled programmer, but Semantic UI is something that I felt comfortable using in only a few short weeks.
+
+## People-Friendly Language
+One of Semantic UI's most notable features (in my opinion) is how user-friendly the language is. Lots of the language is formatted to how we naturally speak English. When we describe something, for example, a dog, we might say it's a "big, brown dog". In comparison, Semantic UI follwos a similar pattern. Take a look at this piece of code: 
+  `ui centered grid container`
+It sounds exactly like how we might use adjectives to describe something in English to describe what kind of container it is, does it not? This makes memorizing different commands easy. It's a very convenient high-level programming language; even though there's a lot of things to learn, they're almost instantly comprehendable because of how easy the language is to understand.
+
+## Freedom of Customization
+
+
