@@ -12,6 +12,7 @@ labels:
 
 ## Early Teachings
 Some of my core design concepts are founded upon a single acronym I learned long ago as a junior in high school. I took an IT internship that Kamehameha Schools was offering, and the first two weeks were spent with a team that specialized in design and infographics. Before sending us off to make infographics of our own, we were taught the principles of C.R.A.P., which stood for **C**ontrast, **R**epetition, **A**lignment, and **P**roximity. These principles were very basic guidelines of how to make any design look organized and complete.
+
 ### Contrast
 Color is a huge part of design, and it can be very easy to screw up if you aren't aware of what colors would go well together. Having good contrast ensures that your text and graphics stand out and are clearly visible. A good reference that I learned from my internship was to look for colors that are opposite each other on the color wheel. 
 ![](images/colorwheel.png)
@@ -22,6 +23,7 @@ Additionally, you don't HAVE to use colors that are opposites on the color wheel
 However, take a look at this example. They're the same two colors, but in different shades. This is a good example of contrast, and it isn't harsh on the eyes at all.
 ![](images/goodcontrast.jpg)
 Contrast doesn't just lie in color, though. Other types of contrast that can be used to benefit your design can be size, whether it be the size of text or size of different shapes. In this essay, for example, I made the headline 'Early Teachings' bigger than 'Contrast', to emphasize that the subject 'Contrast' falls under 'Early Teachings'. Contrasting sizes can send small meanings to the viewer and make the design of whatever you make more comprehensible.
+
 ### Repetition
 Repetition is also important for the unity of a design; designs are all about maintaining patterns. Examples of repetition can be:
 <ul>
@@ -30,6 +32,7 @@ Repetition is also important for the unity of a design; designs are all about ma
   <li>Font</li>
 </ul>
 ...See what I just did there? The use of dots to make a bulleted list is an example of repetition too! Bet ya didn't see that one coming did you? Consistency is what unifies different elements, website pages, etc.
+
 ### Alignment
 Alignment refers to where elements are placed in reference to each other. Typically, elements should be aligned so that their margins line up with each other. Alternatively, if they don't, there could be a repetition of staggered elements where every other element is aligned to each other.
 Check out this image of an example infographic, and note that how each of the shapes, along with the icons and text inside each of the shapes line up to each other. 
@@ -39,6 +42,7 @@ This design utilizes all the previously mentioned concepts of color and repetiti
 Finally, for your benefit, here's a contrasting example of good and bad alignment:
 ![](images/goodvsbadalignment.png)
 I think it's obviously why the good example is better than the bad one. We even practice alignment when turning in correctly formatted code (think about lining up opening and closing divs in html).
+
 ### Proximity
 The concept of proximity basically states that related objects should be placed closer together. This can make it easier for users to find related information instead of having to have their eyes wander all over the place. A good example of this is business cards. Take a look:
 ![](images/samplebusinesscard.jpg)
