@@ -49,11 +49,11 @@ Check out this image of an example infographic, and note that how each of the sh
 
 This design utilizes all the previously mentioned concepts of color and repetition as well; note that each of the graphs within each shape use the repeating colors of the entire infographic. As for myself, I always need to take alignment into consideration for my workplace since I'm tasked with creating program materials for various seminars. For example, for a particular program called #galswithlei, I needed to organize all the logos of the sponsors of the event, and I needed to find the appropriate alignment to organize them in an eye-pleasing way. It wasn't easy, but this was the result: 
 
-[<img class="ui large image" src="../images/galssponsers.jpg">](../images/galssponsers.jpg)
+[<img class="ui large image" src="../images/galssponsers.png">](../images/galssponsers.png)
 
 Finally, for your benefit, here's a contrasting example of good and bad alignment:
 
-[<img class="ui large image" src="../images/goodvsbadalignment.png">](../images/goodvsbadalignment.png)
+[<img class="ui large image" src="../images/goodvsbadalignment.jpg">](../images/goodvsbadalignment.jpg)
 
 I think it's obviously why the good example is better than the bad one. We even practice alignment when turning in correctly formatted code (think about lining up opening and closing divs in html).
 
