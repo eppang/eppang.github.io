@@ -60,7 +60,7 @@ I think it's obviously why the good example is better than the bad one. We even 
 ### Proximity
 The concept of proximity basically states that related objects should be placed closer together. This can make it easier for users to find related information instead of having to have their eyes wander all over the place. A good example of this is business cards. Take a look:
 
-[<img class="ui large image" src="../images/samplebusinesscard.jpg">](../images/samplebusinesscard.jpg)
+[<img class="ui large image" src="../images/samplebusinesscard.jpeg">](../images/samplebusinesscard.jpeg)
 
 Note how the occupation's proximity is close to the name of the person, and the rest of the contact information is grouped together in another column. Lots of business cards and personal information in general follow this general format, and a person's occupation and organization are often grouped closer to their name.
 
