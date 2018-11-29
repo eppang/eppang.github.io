@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: C.R.A.P.-py Foundations
+title: C.R.A.P.-Py Foundations
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
 labels:
