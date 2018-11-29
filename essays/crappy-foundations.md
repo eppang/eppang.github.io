@@ -15,7 +15,7 @@ Some of my core design concepts are founded upon a single acronym I learned long
 
 ### Contrast
 Color is a huge part of design, and it can be very easy to screw up if you aren't aware of what colors would go well together. Having good contrast ensures that your text and graphics stand out and are clearly visible. A good reference that I learned from my internship was to look for colors that are opposite each other on the color wheel. 
-
+[<img class="ui massive image" src="../images/colorwheel.png">](../images/colorwheel.png)
 ![](images/colorwheel.png)
 
 I've frequenty just googled 'infographics' to look for inspiring colors to use in different designs. As I've learned, less is more, and typically you don't want more than around 3-4 different colors or things start to look messy. Because of this, I try to limit myself to 3 basic colors at most. Having a limited color pallete makes the content look unified and neat. Take this infographic for example; the amount of different colors is minimal, and the use of blue against black and white makes it pop and gives it a nice contrast.
