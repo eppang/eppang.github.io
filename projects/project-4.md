@@ -29,9 +29,9 @@ The inspiration for this app originated from the 2018 HACC competition. The them
 The Oahu Waste Organizer was then taken and adapted to fit the criteria of our 314 Final Project. It was updated to use Semantic UI, React, and MongoDB, and was further improved upon by myself, Alton Lee, and Jake Weber.
 
 ## Links
-To see the official Github page of our 314 project, it is available [here](https://oahu-waste-organizer.github.io/). 
+[GitHub Page](https://oahu-waste-organizer.github.io/). 
 
-Additionally, the deployed app for 314 is available [here](http://owo.meteorapp.com/#/).
+[314 Final Project Deployed App](http://owo.meteorapp.com/#/).
 
 ## Role and Responsibilities
 
