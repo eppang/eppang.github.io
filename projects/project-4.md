@@ -5,7 +5,7 @@ image: images/project-landing.jpg
 title: Oahu Waste Organizer
 permalink: projects/owo
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-7
+date: 2018-12-07
 labels:
   - Javascript
   - HTML
