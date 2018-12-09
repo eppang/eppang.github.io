@@ -10,7 +10,7 @@ labels:
   - Photoshop
 summary: An infographic produced by my coworkers and I for the statistics of the past fiscal year for the Seminars department of the East-West Center.
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/infographic.jpg">           
+<img class="ui image" src="{{ site.baseurl }}/images/infographic.pdf">           
 
 ## About
 My coworkers and I were tasked with creating an infographic to display the different statistics of the seminars our department hosts with journalists from all over the world. The infographic displays the different seminars our program offers, the number of participants in each program, and the number of different countries the journalists came from. The infographic also displays some fiscal information on the general funding of the program. Our job was to present the information in an eye-pleasing manner, as the infographic would be shown around the East-West Center (a non-profit organization which focuses on strengthening the ties between the U.S. and Asia). Read more about the [East-West Center] (https://www.eastwestcenter.org/).
