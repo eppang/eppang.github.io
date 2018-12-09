@@ -25,8 +25,12 @@ summary: An app that turns inputted trash audit data into graphs.
 ## About
 
 The inspiration for this app originated from the 2018 HACC competition. The theme was sustainability, and our job was to create an app that made data input for trash audits easier. Currently, data was done with simple paper and pen; the recorded data was then copied into an excel spreadsheet and further formatted by hand for individual graphs. We created an app that had an easy-to-use input page that took the data and created graphs in real time of the data that was inputted. Additionally, we created an Events page to show past and upcoming trash audits.
+
 The Oahu Waste Organizer was then taken and adapted to fit the criteria of our 314 Final Project. It was updated to use Semantic UI, React, and MongoDB, and was further improved upon by myself, Alton Lee, and Jake Weber.
+
+## Links
 To see the official Github page of our 314 project, it is available [here](https://oahu-waste-organizer.github.io/). 
+
 Additionally, the deployed app for 314 is available [here](http://owo.meteorapp.com/#/).
 
 ## Role and Responsibilities
