@@ -17,7 +17,7 @@ labels:
 summary: An app that turns inputted trash audit data into graphs.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/input.PNG">
   <img class="ui image" src="../images/charts.PNG">
 </div>
