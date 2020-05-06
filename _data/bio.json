@@ -81,11 +81,14 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "ICS 141",
-        "ICS 241",
-        "ICS 212"
+        "Intro to Computer Science I & II (Java)",
+        "Program Structure (C/C++)",
+        "Discrete Math I & II",
+        "Algorithms",
+        "Software Engineering I & II",
+        "Operating Systems",
+        "Machine Level Programming", 
+        "Video Game Design",
       ]
     }
   ],
@@ -106,20 +109,27 @@
   ],
   "volunteer": [
     {
-      "organization": "Kawaii Kon Crew",
-      "website": "https://kawaiikon.com/",
-      "position": "Cosplay Cafe Crew Member",
-      "startDate": "2017-03-01",
-      "endDate": "Present",
-      "summary": "Cafe crew member for Cosplay Cafe HI",
-      "highlights": [
-        "Server",
-        "Hostess",
-        "Kitchen"
-      ]
+      "organization": "STEM Fest 2019",
+      "website": "https://www.gshawaii.org/en/events-repository/2019/stem_fest_2019_.html",
+      "position": "University of Hawaii at Manoa Student Representative",
+      "startDate": "2019-11-02",
+      "endDate": "2019-11-02",
+      "summary": "Managed a workshop that taught girl scouts about how the internet works using packages as communication, and how it relates to their everyday lives.",
+    },
+    {
+      "organization": "ICS 390",
+      "position": "Assistant Teacher Assistant",
+      "startDate": "Fall 2019",
+      "endDate": "Spring 2020",
+      "summary": "Helped students with programming and debugging Java-based projects and homework.",
     },
   ],
   "awards": [
+    {"title": "SEOTY A1-A3 Category Winner",
+     "date": "2020",
+     "awarder": "Manoa Career Center",
+     "summary": "Nominated by the East-West Center for Student Employee Of The Year."
+    },
     {
       "title": "AIM Match 2nd Place Winner",
       "date": "2016",
