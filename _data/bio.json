@@ -109,6 +109,12 @@
   ],
   "volunteer": [
     {
+      "organization": "Hawaii Annual Code Challenge 2019",
+      "website": "https://hacc.hawaii.gov/",
+      "position": "Team member",
+      "summary": "Collaborated with a team of 6 other members for front-end and back-end programming. Created a web app for HECO that displays electric vehicle charging station information on a dashboard, and displays stations on an interactive map.",
+    },
+    {
       "organization": "STEM Fest 2019",
       "website": "https://www.gshawaii.org/en/events-repository/2019/stem_fest_2019_.html",
       "position": "University of Hawaii at Manoa Student Representative",
@@ -122,6 +128,27 @@
       "startDate": "Fall 2019",
       "endDate": "Spring 2020",
       "summary": "Helped students with programming and debugging Java-based projects and homework.",
+    },
+    {
+      "organization": "Interactive Board",
+      "position": "Team member",
+      "startDate": "Fall 2018",
+      "endDate": "Spring 2019",
+      "summary": "Worked with a team of three other students to create an interactive board for the POST building on UH Manoa campus. Responsible for front-end programming to create custom elements and display designs. Used Javascript, HTML, CSS.",
+    },
+    {
+      "organization": "Team Kanaloa",
+      "website": "http://rip.eng.hawaii.edu/research/unmanned-x-systems/rov_deployment/"
+      "position": "Sensorfusion subsystem team member",
+      "startDate": "Fall 2018",
+      "endDate": "Spring 2019",
+      "summary": "Assisted subsystem with building a GUI that was responsible for displaying feedback information from an autonomous boat. Used HTML, Semanic UI, React, Electron, and ROS.",
+    },
+    {
+      "organization": "Hawaii Annual Code Challenge 2018",
+      "website": "https://hacc.hawaii.gov/",
+      "position": "Team member",
+      "summary": "Collaborated with multiple team members for front-end and back-end programming. Created a web app that cleanly vizualizes inputted trash audit data. Used HTML & Javascript.
     },
   ],
   "awards": [
